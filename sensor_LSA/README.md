@@ -20,21 +20,14 @@
 
 - Physical PCB
 <p align="center">
-<img src="../../documentation/images/LSA_images/Lsa_front.png" width="600" height = "350">
-</p>
-
-<p align="center">
-<img src="../../documentation/images/LSA_images/Lsa_front_pinout.png" width="600" height = "350">
+<img src="../documentation/images/LSA_images/Lsa_front.png" width="600" height = "350">
 </p>
 
 - PCB Backside
 <p align="center">
-<img src="../../documentation/images/LSA_images/Lsa_back.png" width="600" height = "350">
+<img src="../documentation/images/LSA_images/Lsa_back.png" width="600" height = "350">
 </p>
 
-<p align="center">
-<img src="../../documentation/images/LSA_images/Lsa_back_pinout.png" width="600" height = "350">
-</p>
 
 ### Features
 * Components used are readily available.
@@ -64,7 +57,7 @@
 ### Connections
 To connect LSA with the SRA Board, connect the JST connector in the following way:
 <p align="center">
-<img src="../../documentation/images/LSA_images/lsaconn.png?raw=true" width="400" height = "550"> 
+<img src="../documentation/images/LSA_images/lsa_conn.png" width="400" height = "550"> 
 </p>
 
 ### Working Principle
