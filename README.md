@@ -32,12 +32,11 @@ The SRA board is a development board based on ESP32 with on-board peripherals li
 ![](/documentation/images/board_images/front_side_1.png)
 
 ## Table of Contents
-- [SRA Board 2024](#sra-board-2024)
+- [SRA Board 2025](#sra-board-2024)
   - [Table of Contents](#table-of-contents)
   - [Board Images](#board-images)
   - [About the Project](#about-the-project)
   - [Getting Started with a Development Board](#getting-started-with-a-development-board)
-  - [Major Changes for 2024 SRA Board](#major-changes-for-2024)
   - [Notable problems in the previous SRA Boards](#notable-problems-in-the-previous-sra-boards)
   - [Notable problems in the current SRA Board](#notable-problems-in-the-current-sra-board)
   - [3D Models](#3d-models)
@@ -225,7 +224,7 @@ Let me know if you'd like to turn this into a downloadable Markdown or HTML file
 
 ## 3D Models
 
-1. The complete 3D model (.step) file of [SRA Board 2024](./3d_models/sra_board_model/sra_dev_board_2025.step)
+1. The complete 3D model (.step) file of [SRA Board 2025](./3d_models/sra_board_model/sra_dev_board_2025.step)
 2. The 3D models of motor driver, LEDs, ESP32 etc.: [3d models of other components](./3d_models/)
 
 <!-- Milestone -->
